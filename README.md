@@ -18,10 +18,15 @@ The project involves:
 ## Architecture
 ### Technologies Used
 **AWS S3:** For secure and scalable data storage.
+
 **AWS Glue:** For data processing and ETL (Extract, Transform, Load) operations.
+
 **Amazon Redshift:** For data warehousing and efficient querying of large datasets.
+
 **Pyspark:** For distributed data processing.
+
 **Tableau:** For data visualization and generating actionable insights.
+
 **Boto3 SDK:** For programmatically interacting with AWS services.
 
 ![Presentation1](https://github.com/Atharv1604/Nationwide-Distributed-Energy-Resource-Modelling-and-Analysis/assets/78715129/9dab9b56-1604-4359-a0f1-b37ae0759688)
