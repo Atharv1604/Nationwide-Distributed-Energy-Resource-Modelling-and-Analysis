@@ -5,9 +5,13 @@ This project aims to model and analyze nationwide distributed energy resources, 
 ## Project Overview
 The Nationwide Distributed Energy Resource Modeling and Analysis project uses AWS services to streamline the process from data ingestion to actionable insights. 
 The project involves:
+
 > Secure storage of datasets using Amazon S3.
+
 > Data processing with AWS Glue.
+
 > Data warehousing using Amazon Redshift.
+
 > Analytical visualization with Tableau.
 
 
